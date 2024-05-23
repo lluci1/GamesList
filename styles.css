@@ -1,0 +1,79 @@
+body {
+    background-image: url(https://www.bhmpics.com/downloads/gaming-icon-Wallpapers/7.gamer-icon-wallpaper.jpg);
+}
+h1 {
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+div {
+    color: white;
+} 
+.covers img {
+    max-width:500px;
+    width: auto;
+}
+
+
+
+#game-title1 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+#game-cover1 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 5rem;
+}
+
+#game-title2 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+#game-cover2 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 5rem;
+}
+#game-title3 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+#game-cover3 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 5rem;
+}
+
+#game-title4 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+#game-cover4 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 5rem;
+}
+#game-title5 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+#game-cover5 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 5rem;
+}
+
